@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">MAD POS SYSTEM</string>
+    <string name="Car">Car</string>
+    <string name="Bike">Bike</string>
+    <string name="Plane">Plane</string>
+    <string name="Boat">Boat</string>
+    <string name="UPrice">UPrice</string>
+    <string name="Quantity">Quantity</string>
+    <string name="Taxes">Taxes</string>
+    <string name="Total">Total</string>
+    <string name="CALCULATE">CALCULATE</string>
+    <string name="SAMPLE_MESSAGE">SAMPLE MESSAGE</string>
+    <string name="SMS">SMS</string>
+    <string name="EMAIL">EMAIL</string>
+    <string name="CALL">CALL</string>
+    <string name="CALCULATOR">CALCULATOR</string>
+</resources>
